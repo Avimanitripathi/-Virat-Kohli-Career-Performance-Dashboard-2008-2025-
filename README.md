@@ -25,6 +25,16 @@ Files Included:
 Virat_Kohli_Performance.pbix – Power BI dashboard file
 Kohli_Career_Data.csv – Cleaned dataset (2008–2025)
 Dashboard screenshots for quick preview
+
+
+
+
+
+
+
+Virat_Kohli_Performance.pbix – Power BI dashboard file
+Kohli_Career_Data.csv – Cleaned dataset (2008–2025)
+Dashboard screenshots for quick preview
 Kohli_Career_Data.csv – Cleaned dataset (2008–2025)
 
 Dashboard screenshots for quick previ
